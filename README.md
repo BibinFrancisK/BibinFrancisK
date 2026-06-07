@@ -88,13 +88,6 @@ Agents that correlate logs and traces across services, assess impact, and draft 
 - An AI test-generation engine (LangChain4j) that writes JUnit tests from diffs - ~85% valid-generation rate so far.
 - A Kafka + anomaly-detection batch monitor that flags processing deviations in minutes instead of hours (99.9%+ batch accuracy in production).
 
-## By the numbers
-
-<p align="center">
-  <img src="https://your-grs.vercel.app/api/top-langs/?username=BibinFrancisK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,html,dockerfile" alt="Top languages" />
-  <img src="https://your-grs.vercel.app/api?username=BibinFrancisK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars" alt="GitHub stats" />
-</p>
-
 ## Reach me
 - **LinkedIn** - https://linkedin.com/in/bibin-francis
 - Based in India · open to relocation · targeting **the Netherlands/ Ireland**
