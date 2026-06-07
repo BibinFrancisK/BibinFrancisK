@@ -59,15 +59,6 @@ I'm looking for remote or visa-sponsored backend engineering roles in **the Neth
 
 ## Selected projects
 
-<p align="center">
-  <a href="https://github.com/BibinFrancisK/ai-code-review-agent">
-    <img src="https://your-grs.vercel.app/api/pin/?username=BibinFrancisK&repo=ai-code-review-agent&theme=tokyonight&hide_border=true" alt="AI Code Review Agent" />
-  </a>
-  <a href="https://github.com/BibinFrancisK/ai-cloud-architecture-advisor">
-    <img src="https://your-grs.vercel.app/api/pin/?username=BibinFrancisK&repo=ai-cloud-architecture-advisor&theme=tokyonight&hide_border=true" alt="AI Cloud Architecture Advisor" />
-  </a>
-</p>
-
 ### AI Code Review Agent - [repo](https://github.com/BibinFrancisK/ai-code-review-agent)
 A bot that reviews GitHub PRs automatically and posts inline comments.
 - **Problem:** manual review is slow and keeps missing the same bug classes - SQL injection, N+1 queries, swallowed exceptions.
@@ -100,8 +91,8 @@ Agents that correlate logs and traces across services, assess impact, and draft 
 ## By the numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibinFrancisK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,html,dockerfile" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BibinFrancisK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars" alt="GitHub stats" />
+  <img src="https://your-grs.vercel.app/api/top-langs/?username=BibinFrancisK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,html,dockerfile" alt="Top languages" />
+  <img src="https://your-grs.vercel.app/api?username=BibinFrancisK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars" alt="GitHub stats" />
 </p>
 
 ## Reach me
