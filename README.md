@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2496ED&height=160&section=header&text=Bibin%20Francis&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20%26%20Cloud%20Engineer%20%C2%B7%20LLM%20Systems&descSize=16&descAlignY=60)
-
 # Bibin Francis
 
 <p align="center">
