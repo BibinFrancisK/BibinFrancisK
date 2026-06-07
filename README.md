@@ -11,7 +11,7 @@
 
 I've spent 4+ years building microservices for financial-services platforms, where a wrong number is a real problem, so correctness, observability, and clean failure modes matter more than novelty. For the last while I've been shipping production LLM features into that same environment: retrieval over internal docs, agents that review code and triage incidents. I care about the unglamorous parts - guardrails, structured output, cost, and what happens when the model is wrong.
 
-I'm looking for remote or visa-sponsored backend engineering roles in the **the Netherlands or Ireland**.
+I'm looking for remote or visa-sponsored backend engineering roles in **the Netherlands or Ireland**.
 
 ### Stack
 
