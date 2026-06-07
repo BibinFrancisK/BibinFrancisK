@@ -61,10 +61,10 @@ I'm looking for remote or visa-sponsored backend engineering roles in **the Neth
 
 <p align="center">
   <a href="https://github.com/BibinFrancisK/ai-code-review-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BibinFrancisK&repo=ai-code-review-agent&theme=tokyonight&hide_border=true" alt="AI Code Review Agent" />
+    <img src="https://your-grs.vercel.app/api/pin/?username=BibinFrancisK&repo=ai-code-review-agent&theme=tokyonight&hide_border=true" alt="AI Code Review Agent" />
   </a>
   <a href="https://github.com/BibinFrancisK/ai-cloud-architecture-advisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BibinFrancisK&repo=ai-cloud-architecture-advisor&theme=tokyonight&hide_border=true" alt="AI Cloud Architecture Advisor" />
+    <img src="https://your-grs.vercel.app/api/pin/?username=BibinFrancisK&repo=ai-cloud-architecture-advisor&theme=tokyonight&hide_border=true" alt="AI Cloud Architecture Advisor" />
   </a>
 </p>
 
