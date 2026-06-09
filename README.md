@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/bibin-francis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=BibinFrancisK&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views" />
 </p>
 
 **Senior backend & cloud engineer. I build Java/Spring Boot services on AWS - and lately the LLM systems that sit on top of them.**
