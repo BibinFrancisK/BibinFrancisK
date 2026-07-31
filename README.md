@@ -74,7 +74,7 @@ Natural-language search over internal financial-services documentation.
 - **Stack:** Spring Boot, LangChain4j, pgvector.
 - **Result:** cut developer onboarding ~50%. *Built at work - needs a public, sanitized version living here.*
 
-### Multi-Agent Incident Response - *[open source version in progress]*
+### Multi-Agent Incident Response - [repo](https://github.com/BibinFrancisK/incident-response-orchestrator)
 Agents that correlate logs and traces across services, assess impact, and draft the postmortem.
 - **Problem:** during an incident, the slow part is working out what actually broke, and where.
 - **Stack:** LangGraph4j, Spring Boot.
