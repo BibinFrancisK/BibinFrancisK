@@ -6,7 +6,7 @@
 
 **Senior backend & cloud engineer. I build Java/Spring Boot services on AWS - and lately the LLM systems that sit on top of them.**
 
-I've spent 8+ years building microservices, where a wrong number is a real problem, so correctness, observability, and clean failure modes matter more than novelty. For the last while I've been shipping production LLM features into that same environment: retrieval over internal docs, agents that review code and triage incidents. I care about the unglamorous parts - guardrails, structured output, cost, and what happens when the model is wrong.
+I've spent 9+ years building microservices, where a wrong number is a real problem, so correctness, observability, and clean failure modes matter more than novelty. For the last while I've been shipping production LLM features into that same environment: retrieval over internal docs, agents that review code and triage incidents. I care about the unglamorous parts - guardrails, structured output, cost, and what happens when the model is wrong.
 
 I'm looking for backend engineering roles in **Europe**.
 
